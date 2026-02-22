@@ -1,0 +1,232 @@
+[
+    {
+        "section": "Interest Discovery",
+        "questions": [
+            {
+                "id": 1,
+                "question": "You are given a free month to work on any passion project with unlimited resources. What do you choose?",
+                "options": [
+                    {
+                        "text": "Develop an app or an automated smart-home system from scratch.",
+                        "tag": "technology"
+                    },
+                    {
+                        "text": "Draft a business plan for a new startup and pitch it to potential investors.",
+                        "tag": "business"
+                    },
+                    {
+                        "text": "Write a screenplay, design a clothing line, or create a digital art portfolio.",
+                        "tag": "creative"
+                    },
+                    {
+                        "text": "Conduct experiments in a lab to discover a new sustainable energy material.",
+                        "tag": "science"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "question": "Your local community center needs help operating more efficiently. Where do you step in?",
+                "options": [
+                    {
+                        "text": "Speaking to community members to coordinate volunteers and host events.",
+                        "tag": "communication"
+                    },
+                    {
+                        "text": "Setting up a counseling and support program for underprivileged youth.",
+                        "tag": "social"
+                    },
+                    {
+                        "text": "Analyzing their budget spreadsheets to find cost-saving opportunities.",
+                        "tag": "analytical"
+                    },
+                    {
+                        "text": "Physically repairing their broken equipment, painting walls, and building new desks.",
+                        "tag": "practical"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "question": "When browsing the internet or watching videos, which topic captures your attention the longest?",
+                "options": [
+                    {
+                        "text": "Breakdowns of how the stock market works and stories of successful entrepreneurs.",
+                        "tag": "business"
+                    },
+                    {
+                        "text": "Deep dives into quantum physics, space exploration, or human biology.",
+                        "tag": "science"
+                    },
+                    {
+                        "text": "Tutorials on how to tear down and rebuild a car engine or craft furniture.",
+                        "tag": "practical"
+                    },
+                    {
+                        "text": "Reviews of the latest gadgets, coding tutorials, or AI advancements.",
+                        "tag": "technology"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "question": "A new viral product has just hit the market. What is your immediate thought?",
+                "options": [
+                    {
+                        "text": "I want to understand the exact marketing strategy and supply chain they used.",
+                        "tag": "analytical"
+                    },
+                    {
+                        "text": "I wonder how they designed the packaging and the aesthetic of the campaign.",
+                        "tag": "creative"
+                    },
+                    {
+                        "text": "I wish I could interview the founders to hear their story and share it.",
+                        "tag": "communication"
+                    },
+                    {
+                        "text": "I worry about the ethical implications and how it impacts society as a whole.",
+                        "tag": "social"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "question": "You are stranded on a deserted island with a group of people. What is your primary role?",
+                "options": [
+                    {
+                        "text": "Figuring out the physics of building a sturdy shelter and starting a fire.",
+                        "tag": "practical"
+                    },
+                    {
+                        "text": "Keeping everyone's morale high and resolving arguments within the group.",
+                        "tag": "social"
+                    },
+                    {
+                        "text": "Taking charge, organizing tasks, and devising a master plan for survival.",
+                        "tag": "business"
+                    },
+                    {
+                        "text": "Studying the local flora and fauna to determine what is safe to eat.",
+                        "tag": "science"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Career Inclination & Thinking Style",
+        "questions": [
+            {
+                "id": 11,
+                "question": "You encounter a completely unfamiliar challenge at work. How do you tackle it?",
+                "options": [
+                    {
+                        "text": "I break it down logically, categorize the parts, and solve it step-by-step.",
+                        "tag": "structure"
+                    },
+                    {
+                        "text": "I brainstorm an unconventional workaround that no one else has tried.",
+                        "tag": "innovative"
+                    },
+                    {
+                        "text": "I dive straight into action and learn by trial and error on the fly.",
+                        "tag": "execution"
+                    },
+                    {
+                        "text": "I stop and spend hours reading documentation or literature before acting.",
+                        "tag": "research"
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "question": "A team project is falling apart due to missed deadlines. What is your reaction?",
+                "options": [
+                    {
+                        "text": "I step up, reassign roles, and take direct control of the timeline.",
+                        "tag": "leadership"
+                    },
+                    {
+                        "text": "I quietly complete my own tasks perfectly so I don't drag the team down.",
+                        "tag": "independent"
+                    },
+                    {
+                        "text": "I call a team meeting to discuss everyone's feelings and find a compromise.",
+                        "tag": "emotional"
+                    },
+                    {
+                        "text": "I double down and just do the missing work myself to ensure it gets done.",
+                        "tag": "execution"
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "question": "You are offered a choice between two jobs. Which do you pick?",
+                "options": [
+                    {
+                        "text": "A role with a guaranteed salary, clear hours, and a precise job description.",
+                        "tag": "structure"
+                    },
+                    {
+                        "text": "A role at an early-stage startup where my role changes daily and pay is equity-based.",
+                        "tag": "risk-taking"
+                    },
+                    {
+                        "text": "A role where I am given a goal but complete freedom on how to achieve it.",
+                        "tag": "innovative"
+                    },
+                    {
+                        "text": "A role where I spend my days analyzing trends behind a computer screen.",
+                        "tag": "logical"
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "question": "How do you prefer to make important decisions?",
+                "options": [
+                    {
+                        "text": "By looking strictly at the data, facts, and historical probabilities.",
+                        "tag": "logical"
+                    },
+                    {
+                        "text": "By trusting my gut instinct and how the decision aligns with my values.",
+                        "tag": "emotional"
+                    },
+                    {
+                        "text": "By consulting several experts and thoroughly reviewing all existing literature.",
+                        "tag": "research"
+                    },
+                    {
+                        "text": "By taking a daring leap; you miss 100% of the shots you don't take.",
+                        "tag": "risk-taking"
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "question": "When working on a complex project, what environment suits you best?",
+                "options": [
+                    {
+                        "text": "A quiet room with my headphones on, undisturbed for hours.",
+                        "tag": "independent"
+                    },
+                    {
+                        "text": "A bustling war room with a whiteboard, constant chatter, and bouncing ideas.",
+                        "tag": "team"
+                    },
+                    {
+                        "text": "A predictable environment with strict standard operating procedures.",
+                        "tag": "structure"
+                    },
+                    {
+                        "text": "A chaotic environment where crises happen and I have to put out fires.",
+                        "tag": "execution"
+                    }
+                ]
+            }
+        ]
+    }
+]
